@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>9.0</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>slider</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>720</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/absent/</ImageTemplate>
+            <ImageTemplateName>Absent</ImageTemplateName>
+            <ImageWidth>1280</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Administrator/Dropbox/PC/Desktop/slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/Administrator/Dropbox/PC/Desktop/slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#fff</TemplateColor>
+            <TemplateFont>Slabo 27px</TemplateFont>
+            <TemplateName>absent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/6246fa0e10669f44dad38ba6_Dawamu_feature_image_3.jpg</url>
+                <filesize>204890</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/6246fd9829a6273d805b6a13_Dawamu_feature_image_2.jpg</url>
+                <filesize>731458</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/624720437b6aad43b7eaaa7e_DSC_0186-p-2000.jpeg</url>
+                <filesize>113535</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/6247212041bda0caffa7dccd_DSC_0879-p-1600.jpeg</url>
+                <title>6247212041bda0caffa7dccd_DSC_0879-p-1600</title>
+                <filesize>825836</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/624725c0423e2c58fec88c15_DSC_8439-p-1080.jpeg</url>
+                <filesize>75054</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Administrator/Dropbox/PC/Desktop/Dawamu/images/logo.png</url>
+                <filesize>8235</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

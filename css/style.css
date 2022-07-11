@@ -1,0 +1,25 @@
+body{
+    background-color:#F6FBF4;
+}
+.p{
+    margin-top:15px ; 
+    width: 1440px;
+}
+
+
+a{
+    color: whitesmoke !important;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
